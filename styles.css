@@ -1,0 +1,17 @@
+li:hover {background-color:black}
+li{color: white;}
+
+
+.favorites {text-decoration: underline;}
+.dog {background-color: blueviolet;}
+.fish {background-color: aquamarine;}
+.apple {color: brown;}
+.pig {color: aquamarine;}
+#cat{color: red;}
+
+a{color: rgb(42, 67, 165);}
+
+
+
+body {background-color: rgb(139, 139, 132);}
+@media only screen and (max-width: 600px) {body {background-color: lightblue;}}
